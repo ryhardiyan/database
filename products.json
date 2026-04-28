@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "img": "https://files.catbox.moe/ew5qxy.jpg",
+    "title": "Starlight Card Normal",
+    "desc": "Top up via gift sistem pertemanan dengan estimasi pengiriman (delay) selama 8 hari.",
+    "price": "Rp40.000,00"
+  },
+  {
+    "id": 2,
+    "img": "https://files.catbox.moe/jokokw.jpg",
+    "title": "Pulsa Murah All Operator",
+    "desc": "Layanan isi ulang pulsa untuk seluruh provider seluler di Indonesia dengan berbagai nominal.",
+    "price": "Rp5.000,00 - 1.000.000,00"
+  },
+  {
+    "id": 3,
+    "img": "https://files.catbox.moe/7eppsu.jpg",
+    "title": "PLN",
+    "desc": "Pembelian token listrik prabayar atau pembayaran tagihan listrik pascabayar secara praktis.",
+    "price": "Rp5.000,00 - 1.000.000,00"
+  },
+  {
+    "id": 4,
+    "img": "https://files.catbox.moe/t320by.jpg",
+    "title": "Topup E-wallet",
+    "desc": "Isi saldo dompet digital (Dana, OVO, GoPay, LinkAja, dll) dengan biaya admin terjangkau.",
+    "price": "Rp300,00 - 2.000,00"
+  },
+  {
+    "id": 5,
+    "img": "https://files.catbox.moe/7ste5h.jpg",
+    "title": "Weekly Diamond Pass",
+    "desc": "Paket langganan mingguan untuk mendapatkan diamond harian dengan harga lebih ekonomis.",
+    "price": "Rp28.000,00"
+  }
+]
